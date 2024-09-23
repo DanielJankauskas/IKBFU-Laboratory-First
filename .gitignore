@@ -1,0 +1,14 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Игнорировать все .txt файлы, кроме CMakeLists.txt
+*.txt
+!CMakeLists.txt
+
+# Игнорировать все .jpg файлы
+*.jpg
+
+# Игнорировать все .cpp файлы, кроме LaboratoryOne.cpp
+*.cpp
+!LaboratoryTwo.cpp
