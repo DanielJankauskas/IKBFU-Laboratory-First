@@ -5,6 +5,7 @@ Desktop.ini
 # Игнорировать все .txt файлы, кроме CMakeLists.txt
 *.txt
 !CMakeLists.txt
+!CloneCMake2.txt
 
 # Игнорировать все .jpg файлы
 *.jpg
@@ -12,3 +13,4 @@ Desktop.ini
 # Игнорировать все .cpp файлы, кроме LaboratoryOne.cpp
 *.cpp
 !LaboratoryTwo.cpp
+!LaboratoryOne.cpp
